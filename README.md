@@ -1,2 +1,2 @@
 # v-server-setup
-V-Server als Projekt bei der Developer Akademie
+V-Server as a project at the Developer Akademie
