@@ -1,5 +1,5 @@
 # v-server-setup
-V-Server as a project at the Developer Akademie# V-server Setup
+V-Server as my first Project at the Developer Akademie
 
 In this project, a secured virtual server was set up with SSH key authentication, and the NGINX web server was installed to display a customized HTML start page. Additionally, Git was configured and connected to GitHub via SSH for secure repository management.
 
