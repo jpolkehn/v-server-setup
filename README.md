@@ -19,7 +19,7 @@ In this project, a secured virtual server was set up with SSH key authentication
 - Clone the repository: 
 
 ```bash
-git clone git@github.com:FlyingChris1/v-server-setup.git
+git clone git@github.com:jpolkehn/v-server-setup.git
 cd v-server-setup
 ```
 
